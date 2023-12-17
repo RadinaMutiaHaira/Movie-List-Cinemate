@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738564776121",
+    "project_id": "cinemate-d947e",
+    "storage_bucket": "cinemate-d947e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738564776121:android:837290e8bbf3661e077b68",
+        "android_client_info": {
+          "package_name": "com.example.flutflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLPufh6ip-CIFKjLMEx24LXRAT-sN021g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
